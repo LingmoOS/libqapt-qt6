@@ -1,3 +1,9 @@
+libqapt-qt6 (3.1.0.lingmo.1) unstable; urgency=medium
+
+  * new release for Lingmo OS.
+
+ -- Lingmo OS Team <team@lingmo.org>  Fri, 01 May 2026 21:14:00 +0800
+
 libqapt-qt6 (3.0.9) unstable; urgency=medium
 
   * fix: Failed to install the software package

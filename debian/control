@@ -6,7 +6,8 @@ Uploaders: Sune Vuorela <sune@debian.org>,
            Kai Wasserbäch <curan@debian.org>,
            Floris-Andrei Stoica-Marcu <floris.sm@gmail.com>,
            Maximiliano Curia <maxy@debian.org>,
-           José Manuel Santamaría Lema <panfaust@gmail.com>
+           José Manuel Santamaría Lema <panfaust@gmail.com>,
+           Lingmo OS Team <team@lingmo.org>
 Build-Depends: cmake (>= 2.8.12),
                debhelper-compat (= 12),
                extra-cmake-modules (>= 0.0.14),
